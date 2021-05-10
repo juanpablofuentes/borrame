@@ -10,6 +10,7 @@ public class Test {
 	public static void foos() {
 		System.out.println("Booo");
 		System.out.println("Booo");
+		System.out.println("Booo");
 	}
 
 }
